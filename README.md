@@ -1,27 +1,48 @@
-# GifsApp
+# Angular - Gifts App 
+## AngularJs v18.2.11, - Servicios de Gifs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
+Este proyecto esta generado con: [Angular CLI](https://angular.dev/) version 18.2.11.
 
-## Development server
+_Aplicacion desarrollada en Angular, para repasar algunos conceptos basicos de angular_
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Demo 🎮
+_Despleegado con gihub pages, y despliegue automatico con scripts (npm run build:github)_
 
-## Code scaffolding
+Este es el Demo de la aplicacion, **Update[ 08/11/2024 ]** [Click Aquí](https://alejandrobecerraptor.github.io/angular-gifs-app/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Importante ℹ
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+_si entras en cada uno de los commits podras ver como fue mi proceso paso a paso!._
 
-## Running unit tests
+## Comenzando 🚀
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-## Running end-to-end tests
+Facil primero lo clonas con este comando:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## `git clone https://github.com/alejandrobecerraptor/angular-gifs-app.git`
 
-## Further help
+_Despues de eso te toca descargar las dependencias con:_ ⚙️
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## `npm install`
+
+_luego tendras que arrancar el proyecto y para eso necesitas ejecutar el comando:_
+
+## `ng serve`
+
+y listo disfruta! 🍦
+
+## Construido con 🛠️
+
+* [AngularJs v18](https://angular.dev/) - Framework/plataforma de JavaScript
+* [NPM](https://nodejs.org/es/download/) - Manejador de dependencias
+
+## Autores ✒️
+
+* **Alejandro Becerra** - *Desarrollador Inicial* - [GitHub](https://github.com/alejandrobecerraptor)
+Allí Encontraras mi correo de contacto.
+
+## Contribuyendo 📣
+
+¿Tienes ideas para aportar a este proyecto? por favor ingresa a mi perfil  [Aquí](https://github.com/alejandrobecerraptor) y busca mi correo de contacto para detalles del proceso para enviarnos pull requests.
