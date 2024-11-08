@@ -9,7 +9,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "delete:docs": "del docs",
-    "copy:dist": "copyfiles dist/bases/browser/* ./docs -f",
+    "copy:dist": "copyfiles dist/gifs-app/browser/* ./docs -f",
     "build:github": "npm run delete:docs && npm run build:href && npm run copy:dist"
   },
   "private": true,
