@@ -43,7 +43,7 @@ export class GifsService {
   }
 
   searchTag(tag: string): void {
-    // if (tag.length === 0) return;
+    if (tag.length === 0) return;
     this.organizeHistory(tag);
 
     this.http.get<SearchResponse>(`https://api.giphy.com/v1/gifs/search?api_key=${this.apiKey}&q=${tag}&limit=10`)
